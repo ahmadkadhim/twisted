@@ -1,6 +1,8 @@
 == README
 
-Twisted is planned to be a Ruby on Rails replacement for my personal portfolio, currently a password-proteced site at Squarespace.
+TwistingKnobs.com
+
+Twisted is planned to be a Ruby on Rails replacement for my personal portfolio, currently a password-protected site at Squarespace.
 
 Twisted is still in the design stages, so no code has been written yet.
 
