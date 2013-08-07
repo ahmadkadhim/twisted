@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Twisted is planned to be a Ruby on Rails replacement for my personal portfolio, currently a password-proteced site at Squarespace.
 
-Things you may want to cover:
+Twisted is still in the design stages, so no code has been written yet.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+As soon as a premilinary design is completed, I will start to build the back-end and code the design in HTML/CSS.
