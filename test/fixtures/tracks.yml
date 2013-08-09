@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  artist: MyString
+  genre: MyString
+  remix: MyString
+  source: MyString
+  length: 2013-08-09 15:08:15
+
+two:
+  title: MyString
+  artist: MyString
+  genre: MyString
+  remix: MyString
+  source: MyString
+  length: 2013-08-09 15:08:15
